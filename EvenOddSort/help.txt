@@ -1,0 +1,1 @@
+﻿mpiexec -n <number of communicators> <path to executable> <path to input file> <path to output file>
